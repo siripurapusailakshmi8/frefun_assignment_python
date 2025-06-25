@@ -12,7 +12,7 @@ class InventoryPage(BasePage):
     REMOVE_FROM_CART_BUTTON = "button[data-test^='remove']"
     SHOPPING_CART_BADGE = ".shopping_cart_badge"
     SHOPPING_CART_LINK = ".shopping_cart_link"
-    SORT_DROPDOWN = "[data-test='product_sort_container']"
+    SORT_DROPDOWN = ".product_sort_container"
     HAMBURGER_MENU = "#react-burger-menu-btn"
     LOGOUT_LINK = "#logout_sidebar_link"
    
