@@ -15,9 +15,9 @@ class TestData:
     
     # Test user information
     CHECKOUT_INFO = {
-        "first_name": "John",
-        "last_name": "Doe",
-        "postal_code": "12345"
+        "first_name": "sai",
+        "last_name": "lakshmi",
+        "postal_code": "500055"
     }
     
     # Product names for testing
